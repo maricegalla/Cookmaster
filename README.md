@@ -25,6 +25,11 @@
 
 - Realizar testes de integração
 
+<p align="center"><img src="https://miro.medium.com/max/600/0*kjOwhsnRP6o9upOd.png" alt="node" width="20%"></img></p>
+<p align="center"><img src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/38cea/express-routing-logo.png" alt="node" width="20%"></img></p>
+<p align="center"><img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-05/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="node" width="20%"></img></p>
+<p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xER9IpPd--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/8njbuv1vyt38xvup0ftj.png" alt="node" width="5%"></img></p>
+
 ---
 
 # O que foi desenvolvido
