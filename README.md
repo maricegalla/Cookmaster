@@ -3,7 +3,7 @@
 # Sumário
 
 - [Habilidades](#habilidades)
-- [O que foi Desenvolvido](#o-que-foi-desenvolvido)
+- [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Requisitos do projeto](#requisitos-do-projeto)
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 
-# O que foi Desenvolvido
+# O que foi desenvolvido
 
 Foi desenvolvido seu app utilizando a arquitetura MSC!
 
